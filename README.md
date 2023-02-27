@@ -10,7 +10,7 @@ SQLite
 
 #Installation
 Clone this repository or download the code as a zip file and extract it.
-Make sure that you have Python 3.10,7 installed. You can download it from the official website.
+Make sure that you have Python 3.10.7 installed. You can download it from the official website.
 
 Run the application with the following command:
 
