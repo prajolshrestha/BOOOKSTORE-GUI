@@ -46,9 +46,9 @@ When you click the Delete button, the application will delete the selected book 
 
 
 #Credits
-This motion detector app was built by PRAJOL SHRESTHA as a personal project. 
+This bookstore app was built by PRAJOL SHRESTHA as a personal project. 
 If you have any feedback or suggestions, feel free to create a pull request or contact me via email.
 
 #License
-This motion detector app is licensed under the MIT License. 
+This bookstore app is licensed under the MIT License. 
 You are free to use, modify, and distribute this application as long as you give credit to the original author.
