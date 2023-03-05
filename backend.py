@@ -51,8 +51,3 @@ def update(id,title,author,year,isbn):
     conn.close()
 
 connect()
-#insert("the shadow","johnas smith",1995,387461289357915)
-#print(search(author='john smith'))
-#delete(2)
-#update(1,'the sun','prajol', 2015, 78328784873)
-#print(view())
